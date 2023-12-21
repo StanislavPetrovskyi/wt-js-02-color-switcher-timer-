@@ -2,7 +2,7 @@
   "name": "wt-js-02-color-switcher-timer",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/tamelark/wt-js-02-color-switcher-timer",
+  "homepage": "https://github.com/StanislavPetrovskyi/wt-js-02-color-switcher-timer",
   "scripts": {
     "deploy": "cross-env gh-pages -d dist",
     "build": "cross-env parcel build src/*.html --public-url /wt-js-02-color-switcher-timer/",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tamelark/wt-js-02-color-switcher-timer.git"
+    "url": "git+https://github.com/StanislavPetrovskyi/wt-js-02-color-switcher-timer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tamelark/wt-js-02-color-switcher-timer/issues"
+    "url": "https://github.com/StanislavPetrovskyi/wt-js-02-color-switcher-timer/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
